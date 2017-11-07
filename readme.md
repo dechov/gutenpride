@@ -42,6 +42,8 @@ A gutenberg block that embeds a Vega (or Vega-Lite) graphic. Assumes vega unless
 ```
 (from: https://vega.github.io/vega-lite/examples/selection_translate_scatterplot_drag.html)
 
+![veganberg-example.png](veganberg-example.png)
+
 
 ### Todo
 
