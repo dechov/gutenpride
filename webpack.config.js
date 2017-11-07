@@ -1,5 +1,5 @@
 module.exports = {
-	entry: './gutenpride.js',
+	entry: './index.js',
 	output: {
 		path: __dirname,
 		filename: 'block.built.js',
