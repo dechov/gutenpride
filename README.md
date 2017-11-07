@@ -1,7 +1,7 @@
 
 # Veganberg
 
-A gutenberg block that embeds a [Vega](http://vega.github.io/vega) (or [Vega-Lite](https://vega.github.io/vega-lite/)) graphic. Assumes vega unless Vega-Lite schema indicated in the spec (`"$schema": "https://vega.github.io/schema/vega-lite/v2.json"`)
+A gutenberg block that embeds a [Vega](http://vega.github.io/vega) (or [Vega-Lite](https://vega.github.io/vega-lite/)) graphic. Assumes Vega unless Vega-Lite schema indicated in the spec (`"$schema": "https://vega.github.io/schema/vega-lite/v2.json"`)
 
 (Used https://github.com/mkaz/gutenpride as starter kit.)
 
@@ -47,11 +47,11 @@ A gutenberg block that embeds a [Vega](http://vega.github.io/vega) (or [Vega-Lit
 
 ### Todo
 
-- transform to and from core/image block
-- transform from paste, matching vega or vega-lite schema
-- renderer attribute (svg or canvas)
-- align attribute
-- size attributes
-- support spec URL instead of only JSON
-- support externally setting vega signals
-- codemirror for JSON editing?
+- Transform to and from core/image block
+- Transform from paste, matching Vega or Vega-Lite schema
+- "renderer" attribute (svg or canvas)
+- "align" attribute
+- Size attributes
+- Support spec URL instead of only JSON
+- Support externally setting Vega signals
+- Codemirror for JSON editing?
