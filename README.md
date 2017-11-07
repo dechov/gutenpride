@@ -7,7 +7,7 @@ A gutenberg block that embeds a [Vega](http://vega.github.io/vega) (or [Vega-Lit
 
 ### Basic testing instructions
 
-- If you don't have a WordPress test install: poopy.life/create, open new instance, close "Brought you by Oxygen" banner
+- If you don't have a WordPress test install: [poopy.life/create](poopy.life/create), open new instance, close "Brought you by Oxygen" banner
 - If you don't have Gutenberg: Plugins -> Add New, search for, install, and activate "Gutenberg"
 - Upload Plugin -> choose [zip](https://github.com/dechov/veganberg/archive/master.zip), and activate
 - Posts -> Add New
