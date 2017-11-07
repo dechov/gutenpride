@@ -1,7 +1,7 @@
 
 # Veganberg
 
-A gutenberg block that embeds a Vega (or Vega-Lite) graphic. Assumes vega unless Vega-Lite schema indicated in the spec (`"$schema": "https://vega.github.io/schema/vega-lite/v2.json"`)
+A gutenberg block that embeds a [Vega](http://vega.github.io/vega) (or [Vega-Lite](https://vega.github.io/vega-lite/)) graphic. Assumes vega unless Vega-Lite schema indicated in the spec (`"$schema": "https://vega.github.io/schema/vega-lite/v2.json"`)
 
 (Used https://github.com/mkaz/gutenpride as starter kit.)
 
